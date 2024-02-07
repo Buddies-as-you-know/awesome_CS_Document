@@ -1,5 +1,5 @@
 name: Markdown Processing
-on:
+on: [pull_request]
   push:
     branches:
       - main  # またはプロジェクトに適したブランチ名に変更してください
