@@ -3,6 +3,7 @@
 - [awesome\_CS\_Document](#awesome_cs_document)
   - [研究関連](#研究関連)
   - [論文/資料](#論文資料)
+    - [best paper](#best-paper)
     - [Vision-and-Language](#vision-and-language)
       - [論文](#論文)
 
@@ -13,6 +14,10 @@
 - [卒業研究をはじめる前に読んでおきたかったリンク集](https://qiita.com/tomoyk/items/26461073b5709ffe75d3)
 
 ## 論文/資料
+
+### best paper
+
+- [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
 
 ### Vision-and-Language
 
