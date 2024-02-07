@@ -1,7 +1,6 @@
 name: Markdown Processing
 on:
   pull_request:  # pull_requestイベントに対してトリガーされるように設定
-  push:
     branches:
       - main  # mainブランチへのpushでトリガー
 
