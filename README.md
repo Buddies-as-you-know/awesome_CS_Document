@@ -31,7 +31,10 @@
 - [NLPとVision-and-Languageの基礎・最新動向 (1)](https://speakerdeck.com/kyoun/deim-tutorial-part-1-nlp)
 - [NLPとVision-and-Languageの基礎・最新動向 (2)](https://speakerdeck.com/kyoun/deim-tutorial-part-2-vision-and-language)
 - [自然言語処理とVision-and-Language](https://www.google.com/url?client=internal-element-cse&cx=010150859881542981030:hqhxyxpwtc4&q=https://speakerdeck.com/kyoun/a-tutorial-on-nlp-and-vision-and-language&sa=U&ved=2ahUKEwiUjdvYmpiEAxWS3TQHHfqGBgUQFnoECAYQAg&usg=AOvVaw3RHNAgF2mcm3vZKNjuZBx2)
+- [日本語CLIP 学習済みモデルと評価用データセットの公開](https://blog.recruit.co.jp/data/articles/japanese-clip/)
 
 #### 論文
 
 - [CLIP](https://arxiv.org/abs/2103.00020)
+  - [OpenCLIP](https://github.com/mlfoundations/open_clip)
+  - [japanese-clip](https://github.com/rinnakk/japanese-clip)
