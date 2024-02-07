@@ -1,8 +1,9 @@
 name: Markdown Processing
-on: [pull_request]
+on:
+  pull_request:  # pull_requestイベントに対してトリガーされるように設定
   push:
     branches:
-      - main  # またはプロジェクトに適したブランチ名に変更してください
+      - main  # mainブランチへのpushでトリガー
 
 jobs:
   update-docs-and-lint:
@@ -26,3 +27,4 @@ jobs:
           config: markdownlint-config.json
           files: './README.md'
           ignore: node_modules
+      
