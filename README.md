@@ -3,6 +3,7 @@
 - [awesome\_CS\_Document](#awesome_cs_document)
   - [研究関連](#研究関連)
   - [論文/資料](#論文資料)
+    - [data science related](#data-science-related)
     - [best paper](#best-paper)
     - [Vision-and-Language](#vision-and-language)
       - [論文](#論文)
@@ -14,6 +15,10 @@
 - [卒業研究をはじめる前に読んでおきたかったリンク集](https://qiita.com/tomoyk/items/26461073b5709ffe75d3)
 
 ## 論文/資料
+
+### data science related
+
+- [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science?tab=readme-ov-file#statistics)
 
 ### best paper
 
