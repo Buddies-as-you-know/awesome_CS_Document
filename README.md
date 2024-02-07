@@ -1,4 +1,5 @@
 # awesome_CS_Document
+自分で読んできた論文や参考になりそう/モチベになりそうな記事や資料のリスト。
 
 - [awesome\_CS\_Document](#awesome_cs_document)
   - [研究関連](#研究関連)
