@@ -11,20 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Generate Docs
-        uses: dineshsonachalam/markdown-autodocs@v1.0.7
-        with:
-          commit_author: Author <actions@github.com>
-          commit_user_email: actions@github.com
-          commit_message: Apply automatic changes
-          branch: feature-123
-          output_file_paths: '[./README.md]'
-          categories: '[code-block,json-to-html-table,workflow-artifact-table]'
+      - name: Markdown autodocs
 
       - name: Lint Markdown
         uses: articulate/actions-markdownlint@v1
         with:
-          config: markdownlint-config.json
           files: './README.md'
           ignore: node_modules
       
