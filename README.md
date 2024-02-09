@@ -6,6 +6,7 @@
   - [論文/資料](#論文資料)
     - [data science related](#data-science-related)
     - [best paper](#best-paper)
+    - [Transformer](#Transformer)
     - [Vision-and-Language](#vision-and-language)
       - [論文](#論文)
 
@@ -24,6 +25,9 @@
 ### best paper
 
 - [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
+### Transformer
+
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
 ### Vision-and-Language
 
