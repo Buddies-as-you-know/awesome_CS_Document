@@ -1,4 +1,6 @@
+
 # awesome_CS_Document
+
 自分で読んできた論文や参考になりそう/モチベになりそうな記事や資料のリスト。
 
 - [awesome\_CS\_Document](#awesome_cs_document)
@@ -7,9 +9,11 @@
   - [論文/資料](#論文資料)
     - [data science related](#data-science-related)
     - [best paper](#best-paper)
-    - [Transformer](#Transformer)
+    - [Transformer](#transformer)
     - [Vision-and-Language](#vision-and-language)
       - [論文](#論文)
+  - [その他](#その他)
+    - [英語学習](#英語学習)
 
 ## 研究関連
 
@@ -18,6 +22,8 @@
 - [卒業研究をはじめる前に読んでおきたかったリンク集](https://qiita.com/tomoyk/items/26461073b5709ffe75d3)
 
 ### 実験環境
+
+- [2024年のPythonプログラミング](https://tech.uzabase.com/entry/2024/02/02/120601)
 
 ## 論文/資料
 
@@ -28,6 +34,7 @@
 ### best paper
 
 - [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
+
 ### Transformer
 
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
@@ -46,3 +53,8 @@
 - [CLIP](https://arxiv.org/abs/2103.00020)
   - [OpenCLIP](https://github.com/mlfoundations/open_clip)
   - [japanese-clip](https://github.com/rinnakk/japanese-clip)
+
+## その他
+
+### 英語学習
+- [エンジニアが今日から始める英語学習の継続方法](https://tech.uzabase.com/entry/2024/02/09/184401)
