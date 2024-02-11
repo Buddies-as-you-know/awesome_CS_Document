@@ -38,6 +38,11 @@
 ### Transformer
 
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
+- [Python(PyTorch)で自作して理解するTransformer](https://zenn.dev/yukiyada/articles/59f3b820c52571)
+- [作って理解する Transformer / Attention](https://qiita.com/halhorn/items/c91497522be27bde17ce)
+- [論文解説 Attention Is All You Need (Transformer)](https://deeplearning.hatenablog.com/entry/transformer)
+- [深層学習界の大前提Transformerの論文解説！](https://qiita.com/omiita/items/07e69aef6c156d23c538)
 
 ### Vision-and-Language
 
